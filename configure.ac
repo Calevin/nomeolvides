@@ -22,12 +22,12 @@ IT_PROG_INTLTOOL([0.40])
 AM_GNU_GETTEXT([external])
 AM_GNU_GETTEXT_VERSION([0.17])
 
-GETTEXT_PACKAGE=nomeolvides
+GETTEXT_PACKAGE=nomeolvides-git
 AC_DEFINE_UNQUOTED([GETTEXT_PACKAGE], ["$GETTEXT_PACKAGE"], [Gettext Package])
 AC_SUBST(GETTEXT_PACKAGE)
 
-nomeolvideslocaledir='${prefix}/${DATADIRNAME}/locale'
-AC_SUBST(nomeolvideslocaledir)
+nomeolvides_gitlocaledir='${prefix}/${DATADIRNAME}/locale'
+AC_SUBST(nomeolvides_gitlocaledir)
 
 
 PKG_CHECK_MODULES(NOMEOLVIDES, sqlite3
@@ -54,5 +54,5 @@ Makefile
 src/Makefile
 po/Makefile.in
 data/Makefile
-data/nomeolvides.desktop.in
+data/nomeolvides-git.desktop.in
 ])

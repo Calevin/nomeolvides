@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Copyright 2015 Fernando Fernandez <fernando@softwareperonista.com.ar> -->
 <application>
-  <id type="desktop">nomeolvides.desktop</id>
+  <id type="desktop">nomeolvides-git.desktop</id>
   <metadata_license>CC-BY-SA</metadata_license>
   <project_license>GPL-3.0</project_license>
-  <_name>Nomeolvides</_name>
+  <_name>Nomeolvides  Beta</_name>
   <_summary>Ephemeride Manager</_summary>
   <description>
     <_p>
@@ -31,4 +31,3 @@
   <url type="homepage">https://github.com/softwareperonista/nomeolvides</url>
   <updatecontact>desarrolladores_at_softwareperonista.com.ar</updatecontact>
 </application>
-

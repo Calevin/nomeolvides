@@ -14,8 +14,8 @@
    width="571"
    height="571"
    id="svg2"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="nomeolvides.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="nomeolvides-git.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -25,17 +25,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1535"
-     inkscape:window-height="876"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
      id="namedview129"
      showgrid="false"
      inkscape:zoom="1.1690172"
-     inkscape:cx="-168.1564"
-     inkscape:cy="302.26923"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:cx="373.53299"
+     inkscape:cy="267.2351"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="g3395"
      showguides="true"
      inkscape:guide-bbox="true" />
   <title
@@ -2801,4 +2801,31 @@
      d="m 336.73739,371.17558 c 19.97264,42.3553 40.41505,27.31656 40.41505,27.31656"
      id="path3017-2-7-6-7-5-0-0-1"
      style="opacity:0.57307691;fill:url(#radialGradient4566-4-6-2);fill-opacity:1;stroke:#000000;stroke-width:0.39239642px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0" />
+  <g
+     id="g3395"
+     transform="matrix(0.74957332,-0.49928284,0.4962108,0.75421392,-446.83878,444.24125)">
+    <text
+       sodipodi:linespacing="125%"
+       id="text3349-2"
+       y="511.64651"
+       x="661.58777"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:144px;line-height:125%;font-family:'Linux Biolinum';-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="511.64651"
+         x="661.58777"
+         id="tspan3351-5"
+         sodipodi:role="line">GIT</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3349"
+       y="508.2182"
+       x="664.76593"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:144px;line-height:125%;font-family:'Linux Biolinum';-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#ff2a2a;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       inkscape:transform-center-x="-1.2097456"><tspan
+         y="508.2182"
+         x="664.76593"
+         id="tspan3351"
+         sodipodi:role="line">GIT</tspan></text>
+  </g>
 </svg>

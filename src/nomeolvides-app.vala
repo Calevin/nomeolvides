@@ -79,7 +79,7 @@ public class Nomeolvides.App : Gtk.Application  {
 
 		var builder = new Builder ();
 	    try {
-		    builder.add_from_resource ( "/org/softwareperonista/nomeolvides/nomeolvides-app-menu.ui");
+		    builder.add_from_resource ( "/org/softwareperonista/nomeolvides-git/nomeolvides-app-menu.ui");
   			set_app_menu ((MenuModel)builder.get_object ("app-menu"));
 		} catch (GLib.Error e ) {
     		error ("loading ui file: %s", e.message); 

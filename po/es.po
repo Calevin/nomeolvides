@@ -19,8 +19,8 @@ msgstr ""
 "X-Generator: Gtranslator 2.91.6\n"
 
 #: ../data/nomeolvides.appdata.xml.in.h:1
-msgid "Nomeolvides"
-msgstr "Nomeolvides"
+msgid "Nomeolvides Beta"
+msgstr "Nomeolvides Beta"
 
 #: ../data/nomeolvides.appdata.xml.in.h:2
 #: ../data/nomeolvides.desktop.in.in.h:2

@@ -28,12 +28,12 @@ public class Nomeolvides.Configuracion : GLib.Object {
 		};
 		Gtk.show_about_dialog (window,
 			   "authors", authors,
-			   "program-name", "Nomeolvides",
+			   "program-name", "Nomeolvides Git",
 			   "title", _("About Nomeolvides"),
 			   "comments", _("Historical ephemeris manager"),
 			   "copyright", "Copyright 2012, 2013, 2014 Fernando Fernandez " + _("and") + " Andres Fernandez",
 			   "license-type", Gtk.License.GPL_3_0,
-			   "logo-icon-name", "nomeolvides",
+			   "logo-icon-name", "nomeolvides-git",
 			   "version", Config.VERSION,
 			   "website", "https://github.com/softwareperonista/nomeolvides",
 			   "wrap-license", true);	
@@ -92,11 +92,11 @@ public class Nomeolvides.Configuracion : GLib.Object {
 	}
 
 	private static string directorio_datos () {
-		return GLib.Environment.get_home_dir () + "/.local/share/nomeolvides";
+		return GLib.Environment.get_home_dir () + "/.local/share/nomeolvides-git";
 	}
 
 	public static string base_de_datos () {
-		return Configuracion.directorio_datos () + "/nomeolvides.db";
+		return Configuracion.directorio_datos () + "/nomeolvides-git.db";
 	}
 
 	public static string archivo_colecciones () {
@@ -108,7 +108,7 @@ public class Nomeolvides.Configuracion : GLib.Object {
 	}
 
 	private static string directorio_configuracion () {
-		return GLib.Environment.get_user_config_dir () + "/nomeolvides";
+		return GLib.Environment.get_user_config_dir () + "/nomeolvides-git";
 	}
 
 	private static string archivo_listas_hechos () {

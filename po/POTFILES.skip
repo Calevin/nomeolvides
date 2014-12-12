@@ -1,4 +1,4 @@
-data/nomeolvides.desktop.in
+data/nomeolvides-git.desktop.in
 src/nomeolvides-app.c
 src/nomeolvides-archivo.c
 src/nomeolvides-configuracion.c

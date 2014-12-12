@@ -1,5 +1,5 @@
-data/nomeolvides.appdata.xml.in
-data/nomeolvides.desktop.in.in
+data/nomeolvides-git.appdata.xml.in
+data/nomeolvides-git.desktop.in.in
 src/nomeolvides-app.vala
 src/nomeolvides-archivo.vala
 src/nomeolvides-configuracion.vala
